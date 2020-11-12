@@ -2,4 +2,4 @@
 
 Developed with Unreal Engine 4
 
-Uses the Gamejolt API from FreezerNick
+Uses gamejolt API from FreezerNick, but it seems that github doesnt want to commit that, so I just hope people can still load this. 
